@@ -1,1 +1,0 @@
-GITHUB_TOKEN=put your token in the place of everything after the equals sign, then rename this file to .env  (Don't check this in, it must be kept private.  Github will deactivate the token if it is checked in)
